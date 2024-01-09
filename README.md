@@ -14,6 +14,14 @@ openCVで間違い探しをしました。
 
 #プログラム２について
 
+pandasを使用してシフト管理ツールを作りました。
+店長がシフト管理を紙でしているのを見て思いつきました。
+以下のformから一週間の希望シフトを入力してもらい、csvファイルで出力してcolabにアップロードすると使えます。
+ただ使いまわしができないので毎週コピーを作成して使用しなければいけません。
+https://docs.google.com/forms/d/e/1FAIpQLSdWFaYucH1UwKzfzxlPX1njb8nR4E4ZkUit54pLFojdTuhMOg/viewform?usp=sharing
+
+入力 ->　
+出力 ->
 
 #プログラム３について
 
