@@ -17,8 +17,10 @@ openCVで間違い探しをしました。
 NumPyを使用してシフト管理ツールを作りました。
 以下のformから一週間の希望シフトを入力してもらい、csvファイルで出力してcolabにアップロードすると使えます。
 ただ使いまわしができないので毎週コピーを作成して使用しなければいけません。
+
 https://docs.google.com/forms/d/e/1FAIpQLSfeb9AhEM-xT-LssRO0dp7sZSBv_qFOppTPA_eJjUX4H6Eoeg/viewform?usp=sf_link
-編集・管理のできるページからformの結果のcsvファイルを保存できるのですが、そのページを共有できなさそうだったので事前に作成したcsvファイルを添付しています。
+
+編集・管理のできるページからformの結果のcsvファイルを保存できるのですが、そのページを共有できなかったので事前に作成したcsvファイルを添付しています。
 
 入力 ->　
 
