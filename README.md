@@ -23,7 +23,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeb9AhEM-xT-LssRO0dp7sZSBv_qFOppTPA_eJ
 
 
 ```bash
-入力 ->　固定電話番号の上６桁
+入力 ->　colabへの市外局番.csvのアップロード, 固定電話番号の上６桁
 
 出力 ->　おおよその住所
 ```
